@@ -1,0 +1,17 @@
+.wrapper {
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.primary {
+  border: 1px solid black;
+  color: white;
+  background-color: black;
+  transition: all 0.2s ease-in-out;
+}
+
+.primary:hover {
+  color: black;
+  background-color: white;
+}

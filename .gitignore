@@ -1,0 +1,5 @@
+/api/node_modules
+/api/.webpack
+/api/.serverless
+
+/front/node_modules
